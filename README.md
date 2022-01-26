@@ -92,7 +92,17 @@ The strategy for this work is to make two models from scratch and one using tran
 ![image](https://user-images.githubusercontent.com/459689/151183437-6c075b81-8f97-430c-bd18-0426e0a585d9.png)
 
 
+## Final results
 
+![image](https://user-images.githubusercontent.com/459689/151183803-74145e5c-b04d-42fd-b7d7-4af4a196bedc.png)
+
+
+## Medium Blog Post
+https://urvog.medium.com/weather-image-classification-with-keras-4eee9468ff2f
+
+## License
+
+This project is published in 2021 under MIT license.
 
 
 
