@@ -28,12 +28,15 @@ Unzip archive.zip
 In this section we will proceed to perform the exploration and analysis of the data.
 
 Training Dataset Distribution
+
 ![image](https://user-images.githubusercontent.com/459689/151182165-bb84cdb9-35a0-42a5-9f0c-bbbc6b0eb4e5.png)
 
 Validation Dataset Distribution
+
 ![image](https://user-images.githubusercontent.com/459689/151178807-358975ef-0170-42c9-a2d4-96b83229f690.png)
 
 Test Dataset Distribution
+
 ![image](https://user-images.githubusercontent.com/459689/151178822-7ee75d3b-90cc-4551-97d5-e556ea22dda6.png)
 
 ## Image Samples
