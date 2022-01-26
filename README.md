@@ -28,10 +28,22 @@ Unzip archive.zip
 In this section we will proceed to perform the exploration and analysis of the data.
 
 Training Dataset Distribution
-<img src="https://user-images.githubusercontent.com/459689/151178762-0a090911-b645-4a49-bc29-7f3dbd51b9fc.png" width = 200, height = 200>
+![image](https://user-images.githubusercontent.com/459689/151182165-bb84cdb9-35a0-42a5-9f0c-bbbc6b0eb4e5.png)
 
 Validation Dataset Distribution
 ![image](https://user-images.githubusercontent.com/459689/151178807-358975ef-0170-42c9-a2d4-96b83229f690.png)
 
 Test Dataset Distribution
 ![image](https://user-images.githubusercontent.com/459689/151178822-7ee75d3b-90cc-4551-97d5-e556ea22dda6.png)
+
+## Image Samples
+Cloudy
+![image](https://user-images.githubusercontent.com/459689/151182218-e8e4a38e-9f4c-4994-bf7e-67daaa7fb069.png)
+
+Rain
+![image](https://user-images.githubusercontent.com/459689/151182240-e50e52ce-cad4-470c-841c-57d59fd099a0.png)
+
+Sunrise
+![image](https://user-images.githubusercontent.com/459689/151182332-2bd75867-96d7-45a7-bb22-5d6525c49236.png)
+
+
