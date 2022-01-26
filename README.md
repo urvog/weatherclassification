@@ -63,7 +63,7 @@ At this stage we are going to generate images using Keras Generator, in this way
 
 The strategy for this work is to make two models from scratch and one using transfer learning, in this way we can see the behavior and performance of each one.
 
-### Model1
+### Model 1
 
 ![image](https://user-images.githubusercontent.com/459689/151182770-f160905c-cf65-45dd-ad7b-e2efd11f92dd.png)
 
@@ -76,6 +76,22 @@ The strategy for this work is to make two models from scratch and one using tran
 
 ![image](https://user-images.githubusercontent.com/459689/151182987-d89d3f0c-d8f9-463b-a13f-b94a5a311d4e.png)
 ![image](https://user-images.githubusercontent.com/459689/151182974-b1a20c7d-1c2c-4f5d-86ac-a7fb9b07d0aa.png)
+
+## Scores
+
+### Model 1
+
+![image](https://user-images.githubusercontent.com/459689/151183351-4d712129-39eb-4c3f-91e4-66649f3ee38e.png)
+
+### Model 2
+
+![image](https://user-images.githubusercontent.com/459689/151183380-cee3758b-16f6-45f4-8292-372a13ea2f08.png)
+
+### Model 3
+
+![image](https://user-images.githubusercontent.com/459689/151183437-6c075b81-8f97-430c-bd18-0426e0a585d9.png)
+
+
 
 
 
