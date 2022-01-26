@@ -41,12 +41,26 @@ Test Dataset Distribution
 
 ## Image Samples
 Cloudy
+
 ![image](https://user-images.githubusercontent.com/459689/151182218-e8e4a38e-9f4c-4994-bf7e-67daaa7fb069.png)
 
 Rain
+
 ![image](https://user-images.githubusercontent.com/459689/151182240-e50e52ce-cad4-470c-841c-57d59fd099a0.png)
 
 Sunrise
+
 ![image](https://user-images.githubusercontent.com/459689/151182332-2bd75867-96d7-45a7-bb22-5d6525c49236.png)
+
+## Image processing and Data Augmentation
+At this stage we are going to generate images using Keras Generator, in this way we can see how the Data Augmentation strategy is working. We disable rescaling so that images can be easily viewed.
+
+![image](https://user-images.githubusercontent.com/459689/151182590-2788bec7-1737-4a9b-bc0a-85785f1e5fe0.png)
+![image](https://user-images.githubusercontent.com/459689/151182624-0c2c61ce-bdee-419e-90c5-8e9a9339be78.png)
+
+
+
+
+
 
 
