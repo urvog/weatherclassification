@@ -13,3 +13,25 @@ Required Libraries:
 - numpy
 - matplotlib
 - os
+
+## Importing Datasets
+
+Multi-class weather dataset(MWD) for image classification is a valuable dataset used in the research paper entitled “Multi-class weather recognition from still image using heterogeneous ensemble method”. The dataset provides a platform for outdoor weather analysis by extracting various features for recognizing different weather conditions.
+
+URL: https://www.kaggle.com/mauricioarancibia/weatherimgclass/download
+
+Upload arhive.zip file to colab.
+Unzip archive.zip
+
+## Data Exploration Analysis (EDA)
+
+In this section we will proceed to perform the exploration and analysis of the data.
+
+Training Dataset Distribution
+![image](https://user-images.githubusercontent.com/459689/151178762-0a090911-b645-4a49-bc29-7f3dbd51b9fc.png)
+
+Validation Dataset Distribution
+![image](https://user-images.githubusercontent.com/459689/151178807-358975ef-0170-42c9-a2d4-96b83229f690.png)
+
+Test Dataset Distribution
+![image](https://user-images.githubusercontent.com/459689/151178822-7ee75d3b-90cc-4551-97d5-e556ea22dda6.png)
