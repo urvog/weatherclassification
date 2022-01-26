@@ -59,20 +59,20 @@ At this stage we are going to generate images using Keras Generator, in this way
 ![image](https://user-images.githubusercontent.com/459689/151182624-0c2c61ce-bdee-419e-90c5-8e9a9339be78.png)
 
 
-##Model Implementation
+## Model Implementation
 
 The strategy for this work is to make two models from scratch and one using transfer learning, in this way we can see the behavior and performance of each one.
 
-###Model1
+### Model1
 
 ![image](https://user-images.githubusercontent.com/459689/151182770-f160905c-cf65-45dd-ad7b-e2efd11f92dd.png)
 
 
-###Model 2
+### Model 2
 
 ![image](https://user-images.githubusercontent.com/459689/151182799-90944ec1-3a3e-4406-b9f4-91182b24cd77.png)
 
-###Model 3 with Transfer Learning
+### Model 3 with Transfer Learning
 
 ![image](https://user-images.githubusercontent.com/459689/151182987-d89d3f0c-d8f9-463b-a13f-b94a5a311d4e.png)
 ![image](https://user-images.githubusercontent.com/459689/151182974-b1a20c7d-1c2c-4f5d-86ac-a7fb9b07d0aa.png)
